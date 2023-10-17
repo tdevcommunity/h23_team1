@@ -1,4 +1,4 @@
-# h23_team_1
+# h23_team1
 Repertoire pour le hacktoberfest Lome de l'equipe 1
 
 # Projet 3 
